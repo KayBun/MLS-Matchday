@@ -1,12 +1,10 @@
 MLS-Matchday
-===========
+============
+QA Assessment: Find Bugs!
 
->QA Assessment: Find Bugs!
->
->Prepared by Victoria Shearer
->
->Supporting Documents
-<ul>
-<li>Workflowy: Test Plan and Outline</li>
-<li>Google Doc: Test Cases</li>
-</ul>
+Prepared by Victoria Shearer
+
+Supporting Documents
+
+* Workflowy: Test Plan and Outline
+* Google Doc: Test Cases
